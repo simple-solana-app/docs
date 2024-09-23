@@ -1,0 +1,3 @@
+Basically, the more liquidity there is in the SOL-simple pool (https://solscan.io/account/5bzgEZX5KE4BckyTG7s391EayGeYMd3yx9dgeBLMof2x), the more simple stored in protocol (https://solscan.io/account/G1WbUJDHZZXXYxXsdnJPsgM3noyXCbD9Dt57Lq79f5hH) is up for grabs.
+
+I highly suggest reading the code to get a perfect understanding of what the protocol does. To summarize, for every 50 SOL increase in the pool, 1 more percent of the simple in the protocol becomes available for claim. Your share is calculated based on the proportion of your SOL-simple LP token (https://solscan.io/token/52Pbw9eUXkuMsw1KJKdYtkBEPt94D8RL8Ko29Hrqsb2X) holdings against the entire supply of the LP token.

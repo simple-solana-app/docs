@@ -14,7 +14,9 @@
 - revoke mint authority on 'simple' ✅
 
 ## develop simple app to be more robust
-- make flutter frontend interactable with protocol
+- make flutter frontend interactable with protocol ✅
 - host website?
 - learn solana repo and spl repo by solana-labs
 - make program best it can be
+
+#### good stopping point for an indefinate amount of time ✅
